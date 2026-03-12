@@ -1,0 +1,25 @@
+# Large generated data files
+Generated_n_k_m_P
+Generated_n_k_m_P copy
+Generated_m-heights
+Generated_m-heights copy
+CSCE-636-Project-1-Train-n_k_m_P
+CSCE-636-Project-1-Train-mHeights
+
+# Keras/HDF5 model weights
+*.keras
+*.h5
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# macOS
+__MACOSX/
+.DS_Store
+
+# Zone identifiers
+*.Zone.Identifier
